@@ -1,0 +1,1183 @@
+[
+  {
+    "id": 7,
+    "series": "1637332388",
+    "cui": "459687",
+    "name": "IKEA Furnitures Co.",
+    "type": {
+      "key": "pcsolution",
+      "label": "PC Solution"
+    },
+    "status": {
+      "key": "rejected",
+      "label": "Respins"
+    },
+    "contractNumber": "CT-007",
+    "datePicker": "2026-07-09T21:00:00.000Z",
+    "agentName": "Agent Testul Meu",
+    "companyName": "IKEA Furnitures Co",
+    "companyNumber": "J40/111/2026",
+    "companyAddress": "Str. Mobilă nr. 7, București",
+    "companyPhone": "0747371844",
+    "fax": "021 666 7777",
+    "legalRepresentative": "Anders Dahlvig",
+    "legalRepresentativeRole": "Director",
+    "idSeries": "XY",
+    "idNumber": "778899",
+    "cnp": "7890123456789",
+    "phone": "0746 778 899",
+    "email": "anders@ikea.com",
+    "invoice": "original",
+    "invoiceInfo": "sms",
+    "iban": "RO49AAAA1231007593840006",
+    "bankName": "ING",
+    "bankLocation": "Victoriei",
+    "paymentMethod": "cash",
+    "warranties": {
+      "key": "guarantee2",
+      "label": "Lorem ipsum dolor sit amet, consectetur incididunt"
+    },
+    "storeName": "IKEA Furnitures Co",
+    "storeCounty": "Voluntari",
+    "storeCity": "Voluntari",
+    "storeAddress": "Str. Mobilă nr. 7",
+    "storeNumber": "7",
+    "files": [
+      {
+        "name": "Screenshot 2026-06-18 175018.png",
+        "url": "/uploads/Screenshot%202026-06-18%20175018.png",
+        "id": "7-0-Screenshot 2026-06-18 175018.png"
+      }
+    ],
+    "contractDate": "",
+    "amount": 0
+  },
+  {
+    "id": 9,
+    "series": "1637332395",
+    "cui": "612345",
+    "name": "Orange Romania Services",
+    "type": {
+      "key": "pcsolution",
+      "label": "PC Solution"
+    },
+    "status": {
+      "key": "approved",
+      "label": "Aprobat"
+    },
+    "contractNumber": "CT-009",
+    "datePicker": "2026-07-15",
+    "agentName": "Agent 9",
+    "companyName": "Orange Romania Services",
+    "companyNumber": "J40/333/2026",
+    "companyAddress": "Bd. Bucuresti nr. 30, București",
+    "companyPhone": "021 444 5555",
+    "fax": "021 555 4444",
+    "legalRepresentative": "Mihai Popa",
+    "legalRepresentativeRole": "Director",
+    "idSeries": "AB",
+    "idNumber": "445566",
+    "cnp": "9012345678901",
+    "phone": "0748 445 566",
+    "email": "mihai@orange.ro",
+    "invoice": "email",
+    "invoiceInfo": "email",
+    "iban": "RO49AAAA1231007593840008",
+    "bankName": "BCR",
+    "bankLocation": "București",
+    "paymentMethod": "transfer",
+    "warranties": {
+      "key": "radio-2",
+      "value": "Lorem ipsum dolor sit amet, consectetur incididunt"
+    },
+    "storeName": "Orange Store",
+    "storeCounty": "Sector 3",
+    "storeCity": "București",
+    "storeAddress": "Bd. București nr. 30",
+    "storeNumber": "9",
+    "files": [
+      {
+        "name": "Screenshot 2026-06-18 175018.png",
+        "url": "/uploads/Screenshot%202026-06-18%20175018.png"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "series": "1637332400",
+    "cui": "712345",
+    "type": {
+      "key": "standard",
+      "label": "Standard"
+    },
+    "status": {
+      "key": "pending",
+      "label": "In asteptare"
+    },
+    "contractNumber": "CT-010",
+    "datePicker": "2026-07-18",
+    "agentName": "Agent 10",
+    "companyName": "Auchan Retail Romania",
+    "companyNumber": "J40/444/2026",
+    "companyAddress": "Str. Comercială nr. 40, Timișoara",
+    "companyPhone": "0256 111 222",
+    "fax": "0256 222 111",
+    "legalRepresentative": "Elena Marin",
+    "legalRepresentativeRole": "Manager",
+    "idSeries": "CD",
+    "idNumber": "556677",
+    "cnp": "0123456789012",
+    "phone": "0749 556 677",
+    "email": "elena@auchan.ro",
+    "invoice": "original",
+    "invoiceInfo": "sms",
+    "iban": "RO49AAAA1231007593840009",
+    "bankName": "Raiffeisen",
+    "bankLocation": "Timișoara",
+    "paymentMethod": "cash",
+    "warranties": {
+      "key": "radio-4",
+      "value": "Lorem ipsum dolor sit amet, consectetur incididunt"
+    },
+    "storeName": "Auchan Timișoara",
+    "storeCounty": "Timișoara",
+    "storeCity": "Timișoara",
+    "storeAddress": "Str. Comercială nr. 40",
+    "storeNumber": "10",
+    "files": [
+      {
+        "name": "Screenshot 2026-06-18 175018.png",
+        "url": "/uploads/Screenshot%202026-06-18%20175018.png"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "series": "1637332405",
+    "cui": "812345",
+    "name": "Digi Communications",
+    "type": {
+      "key": "coletexpres",
+      "label": "Colet Expres"
+    },
+    "status": {
+      "key": "signed",
+      "label": "Semnat"
+    },
+    "contractNumber": "CT-011",
+    "datePicker": "2026-07-22",
+    "agentName": "Agent 11",
+    "companyName": "Digi Communications",
+    "companyNumber": "J40/555/2026",
+    "companyAddress": "Str. Digi nr. 55, Brașov",
+    "companyPhone": "0268 333 444",
+    "fax": "0268 444 333",
+    "legalRepresentative": "Alexandru Vasile",
+    "legalRepresentativeRole": "CEO",
+    "idSeries": "EF",
+    "idNumber": "667788",
+    "cnp": "1234567890123",
+    "phone": "0750 667 788",
+    "email": "alex@digi.ro",
+    "invoice": "email",
+    "invoiceInfo": "email",
+    "iban": "RO49AAAA1B31007593840010",
+    "bankName": "UniCredit",
+    "bankLocation": "Brașov",
+    "paymentMethod": "transfer",
+    "warranties": {
+      "key": "radio-3",
+      "value": "Lorem ipsum dolor sit amet, consectetur incididunt"
+    },
+    "storeName": "Digi Brașov",
+    "storeCounty": "Brașov",
+    "storeCity": "Brașov",
+    "storeAddress": "Str. Digi nr. 55",
+    "storeNumber": "11",
+    "files": [
+      {
+        "name": "Screenshot 2026-06-18 175018.png",
+        "url": "/uploads/Screenshot%202026-06-18%20175018.png"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "series": "1637332380",
+    "cui": "987654",
+    "type": {
+      "key": "standard",
+      "label": "Standard"
+    },
+    "status": {
+      "key": "rejected",
+      "label": "Respins"
+    },
+    "contractNumber": "CT-012",
+    "datePicker": "2026-07-24",
+    "agentName": "Agent 12",
+    "companyName": "Apple Romania S.R.L. TEST",
+    "companyNumber": "J40/556/2026",
+    "companyAddress": "Str. Tehnologie nr. 20, București",
+    "companyPhone": "021 666 7777",
+    "fax": "021 777 6666",
+    "legalRepresentative": "Maria Popescu",
+    "legalRepresentativeRole": "General Manager",
+    "idSeries": "GH",
+    "idNumber": "778899",
+    "cnp": "4567890123456",
+    "phone": "0751 123 456",
+    "email": "maria.popescu@apple.ro",
+    "invoice": {
+      "key": "email",
+      "label": "Email"
+    },
+    "invoiceInfo": {
+      "key": "email",
+      "label": "Email"
+    },
+    "iban": "RO49AAAA1231007593840001",
+    "bankName": "BCR",
+    "bankLocation": "Victoriei",
+    "paymentMethod": {
+      "key": "transfer",
+      "label": "Transfer"
+    },
+    "warranties": {
+      "key": "radio-3",
+      "value": "Lorem ipsum dolor sit amet, consectetur incididunt"
+    },
+    "storeName": "Apple Flagship",
+    "storeCounty": "Iasi",
+    "storeCity": "București",
+    "storeAddress": "Str. Tehnologie nr. 20",
+    "storeNumber": "12",
+    "files": [
+      {
+        "name": "Screenshot 2026-06-18 175018.png",
+        "url": "/uploads/Screenshot%202026-06-18%20175018.png"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "series": "1637332383",
+    "cui": "765432",
+    "type": {
+      "key": "coletexpres",
+      "label": "Colet Expres"
+    },
+    "status": {
+      "key": "approved",
+      "label": "Aprobat"
+    },
+    "contractNumber": "CT-013",
+    "datePicker": "2026-07-26",
+    "agentName": "Agent 13",
+    "companyName": "Metro Cash & Carry",
+    "companyNumber": "J40/557/2026",
+    "companyAddress": "Șos. București-Ploiești nr. 150, București",
+    "companyPhone": "021 888 9999",
+    "fax": "021 999 8888",
+    "legalRepresentative": "Cristian Ionescu",
+    "legalRepresentativeRole": "Director Comercial",
+    "idSeries": "IJ",
+    "idNumber": "889900",
+    "cnp": "5678901234567",
+    "phone": "0752 234 567",
+    "email": "cristian.ionescu@metro.ro",
+    "invoice": "original",
+    "invoiceInfo": "sms",
+    "iban": "RO49AAAA1B31007593840012",
+    "bankName": "OTP Bank",
+    "bankLocation": "București Nord",
+    "paymentMethod": "cash",
+    "warranties": {
+      "key": "radio-2",
+      "value": "Lorem ipsum dolor sit amet, consectetur incididunt"
+    },
+    "storeName": "Metro București",
+    "storeCounty": "Sector 1",
+    "storeCity": "București",
+    "storeAddress": "Șos. București-Ploiești nr. 150",
+    "storeNumber": "13",
+    "files": [
+      {
+        "name": "Screenshot 2026-06-18 175018.png",
+        "url": "/uploads/Screenshot%202026-06-18%20175018.png"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "series": "1637332386",
+    "cui": "456789",
+    "type": {
+      "key": "standard",
+      "label": "Standard"
+    },
+    "status": {
+      "key": "pending",
+      "label": "In asteptare"
+    },
+    "contractNumber": "CT-014",
+    "datePicker": "2026-07-27",
+    "agentName": "Agent 14",
+    "companyName": "Orange Romania S.A.",
+    "companyNumber": "J40/558/2026",
+    "companyAddress": "Calea Floreasca nr. 169, București",
+    "companyPhone": "021 111 2222",
+    "fax": "021 222 1111",
+    "legalRepresentative": "Elena Stan",
+    "legalRepresentativeRole": "Director Financiar",
+    "idSeries": "KL",
+    "idNumber": "990011",
+    "cnp": "6789012345678",
+    "phone": "0753 345 678",
+    "email": "elena.stan@orange.ro",
+    "invoice": "email",
+    "invoiceInfo": "sms",
+    "iban": "RO49AAAA1B31007593840013",
+    "bankName": "BRD",
+    "bankLocation": "Pipera",
+    "paymentMethod": "transfer",
+    "warranties": {
+      "key": "radio-4",
+      "value": "Lorem ipsum dolor sit amet, consectetur incididunt"
+    },
+    "storeName": "Orange Shop",
+    "storeCounty": "Sector 1",
+    "storeCity": "București",
+    "storeAddress": "Calea Floreasca nr. 169",
+    "storeNumber": "14",
+    "files": [
+      {
+        "name": "Screenshot 2026-06-18 175018.png",
+        "url": "/uploads/Screenshot%202026-06-18%20175018.png"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "series": "1637332389",
+    "cui": "234567",
+    "type": {
+      "key": "standard",
+      "label": "Standard"
+    },
+    "status": {
+      "key": "approved",
+      "label": "Aprobat"
+    },
+    "contractNumber": "CT-015",
+    "datePicker": "2026-07-28",
+    "agentName": "Agent 15",
+    "companyName": "Samsung Electronics Romania",
+    "companyNumber": "J40/559/2026",
+    "companyAddress": "Bulevardul Expoziției nr. 1, București",
+    "companyPhone": "021 333 4444",
+    "fax": "021 444 3333",
+    "legalRepresentative": "Adrian Petrescu",
+    "legalRepresentativeRole": "General Manager",
+    "idSeries": "MN",
+    "idNumber": "001122",
+    "cnp": "7890123456789",
+    "phone": "0754 456 789",
+    "email": "adrian.petrescu@samsung.ro",
+    "invoice": "original",
+    "invoiceInfo": "email",
+    "iban": "RO49AAAA1B31007593840014",
+    "bankName": "CEC Bank",
+    "bankLocation": "București",
+    "paymentMethod": "transfer",
+    "warranties": {
+      "key": "radio-3",
+      "value": "Lorem ipsum dolor sit amet, consectetur incididunt"
+    },
+    "storeName": "Samsung Store",
+    "storeCounty": "Sector 1",
+    "storeCity": "București",
+    "storeAddress": "Bulevardul Expoziției nr. 1",
+    "storeNumber": "15",
+    "files": [
+      {
+        "name": "Screenshot 2026-06-18 175018.png",
+        "url": "/uploads/Screenshot%202026-06-18%20175018.png"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "series": "1637332392",
+    "cui": "543210",
+    "type": {
+      "key": "westernunion",
+      "label": "Western Union"
+    },
+    "status": {
+      "key": "pending",
+      "label": "In asteptare"
+    },
+    "contractNumber": "CT-016",
+    "datePicker": "2026-07-29",
+    "agentName": "Agent 16",
+    "companyName": "eMAG Retail S.R.L.",
+    "companyNumber": "J40/560/2026",
+    "companyAddress": "Str. Liviu Rebreanu nr. 1, București",
+    "companyPhone": "021 555 6666",
+    "fax": "021 666 5555",
+    "legalRepresentative": "Andreea Vântu",
+    "legalRepresentativeRole": "Director Operațiuni",
+    "idSeries": "OP",
+    "idNumber": "112233",
+    "cnp": "8901234567890",
+    "phone": "0755 567 890",
+    "email": "andreea.vantu@emag.ro",
+    "invoice": "email",
+    "invoiceInfo": "sms",
+    "iban": "RO49AAAA1B31007593840015",
+    "bankName": "Raiffeisen Bank",
+    "bankLocation": "Piața Victoriei",
+    "paymentMethod": "transfer",
+    "warranties": {
+      "key": "radio-2",
+      "value": "Lorem ipsum dolor sit amet, consectetur incididunt"
+    },
+    "storeName": "eMAG Experience Store",
+    "storeCounty": "Sector 1",
+    "storeCity": "București",
+    "storeAddress": "Str. Liviu Rebreanu nr. 1",
+    "storeNumber": "16",
+    "files": [
+      {
+        "name": "Screenshot 2026-06-18 175018.png",
+        "url": "/uploads/Screenshot%202026-06-18%20175018.png"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "series": "1637332395",
+    "cui": "321098",
+    "type": {
+      "key": "westernunion",
+      "label": "Western Union"
+    },
+    "status": {
+      "key": "approved",
+      "label": "Aprobat"
+    },
+    "contractNumber": "CT-017",
+    "datePicker": "2026-07-30",
+    "agentName": "Agent 17",
+    "companyName": "Banca Transilvania",
+    "companyNumber": "J40/561/2026",
+    "companyAddress": "Str. George Barițiu nr. 8, Cluj",
+    "companyPhone": "0264 777 888",
+    "fax": "0264 888 777",
+    "legalRepresentative": "Radu Săftoiu",
+    "legalRepresentativeRole": "Director General",
+    "idSeries": "QR",
+    "idNumber": "223344",
+    "cnp": "9012345678901",
+    "phone": "0756 678 901",
+    "email": "radu.saftoiu@bt.ro",
+    "invoice": "original",
+    "invoiceInfo": "email",
+    "iban": "RO49AAAA1B31007593840016",
+    "bankName": "Banca Transilvania",
+    "bankLocation": "Cluj-Napoca",
+    "paymentMethod": "cash",
+    "warranties": {
+      "key": "radio-4",
+      "value": "Lorem ipsum dolor sit amet, consectetur incididunt"
+    },
+    "storeName": "BT Branch Cluj",
+    "storeCounty": "Cluj-Napoca",
+    "storeCity": "Cluj-Napoca",
+    "storeAddress": "Str. George Barițiu nr. 8",
+    "storeNumber": "17",
+    "files": [
+      {
+        "name": "Screenshot 2026-06-18 175018.png",
+        "url": "/uploads/Screenshot%202026-06-18%20175018.png"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "series": "1637332398",
+    "cui": "678905",
+    "type": {
+      "key": "standard",
+      "label": "Standard"
+    },
+    "status": {
+      "key": "approved",
+      "label": "Aprobat"
+    },
+    "contractNumber": "CT-018",
+    "datePicker": "2026-07-31",
+    "agentName": "Agent 18",
+    "companyName": "Starbucks Romania",
+    "companyNumber": "J40/562/2026",
+    "companyAddress": "Piața Universității nr. 3, București",
+    "companyPhone": "021 111 3333",
+    "fax": "021 333 1111",
+    "legalRepresentative": "Dana Mitrea",
+    "legalRepresentativeRole": "Country Manager",
+    "idSeries": "ST",
+    "idNumber": "334455",
+    "cnp": "0123456789012",
+    "phone": "0757 789 012",
+    "email": "dana.mitrea@starbucks.ro",
+    "invoice": "email",
+    "invoiceInfo": "sms",
+    "iban": "RO49AAAA1B31007593840017",
+    "bankName": "BRD",
+    "bankLocation": "Universitate",
+    "paymentMethod": "transfer",
+    "warranties": {
+      "key": "radio-4",
+      "value": "Lorem ipsum dolor sit amet, consectetur incididunt"
+    },
+    "storeName": "Starbucks Universitate",
+    "storeCounty": "Sector 1",
+    "storeCity": "București",
+    "storeAddress": "Piața Universității nr. 3",
+    "storeNumber": "18",
+    "files": [
+      {
+        "name": "Screenshot 2026-06-18 175018.png",
+        "url": "/uploads/Screenshot%202026-06-18%20175018.png"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "series": "1637332401",
+    "cui": "890123",
+    "type": {
+      "key": "westernunion",
+      "label": "Western Union"
+    },
+    "status": {
+      "key": "pending",
+      "label": "In asteptare"
+    },
+    "contractNumber": "CT-019",
+    "datePicker": "2026-08-01",
+    "agentName": "Agent 19",
+    "companyName": "Carrefour Romania",
+    "companyNumber": "J40/563/2026",
+    "companyAddress": "Șos. Pantelimon nr. 18, București",
+    "companyPhone": "021 444 5555",
+    "fax": "021 555 4444",
+    "legalRepresentative": "Mihai Enache",
+    "legalRepresentativeRole": "Operations Director",
+    "idSeries": "UV",
+    "idNumber": "445566",
+    "cnp": "1234509876543",
+    "phone": "0758 890 123",
+    "email": "mihai.enache@carrefour.ro",
+    "invoice": "original",
+    "invoiceInfo": "email",
+    "iban": "RO49AAAA1B31007593840018",
+    "bankName": "CEC Bank",
+    "bankLocation": "Pantelimon",
+    "paymentMethod": "cash",
+    "warranties": {
+      "key": "radio-2",
+      "value": "Lorem ipsum dolor sit amet, consectetur incididunt"
+    },
+    "storeName": "Carrefour Pantelimon",
+    "storeCounty": "Sector 2",
+    "storeCity": "București",
+    "storeAddress": "Șos. Pantelimon nr. 18",
+    "storeNumber": "19",
+    "files": [
+      {
+        "name": "Screenshot 2026-06-18 175018.png",
+        "url": "/uploads/Screenshot%202026-06-18%20175018.png"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "series": "1637332404",
+    "cui": "112233",
+    "type": {
+      "key": "westernunion",
+      "label": "Western Union"
+    },
+    "status": {
+      "key": "signed",
+      "label": "Semnat"
+    },
+    "contractNumber": "CT-020",
+    "datePicker": "2026-08-02",
+    "agentName": "Agent 20",
+    "companyName": "Vodafone Romania",
+    "companyNumber": "J40/564/2026",
+    "companyAddress": "Șos. Ștefan cel Mare nr. 26, București",
+    "companyPhone": "021 777 6666",
+    "fax": "021 666 7777",
+    "legalRepresentative": "Daniela Radu",
+    "legalRepresentativeRole": "HR Director",
+    "idSeries": "WX",
+    "idNumber": "556677",
+    "cnp": "2345610987654",
+    "phone": "0759 901 234",
+    "email": "daniela.radu@vodafone.ro",
+    "invoice": "email",
+    "invoiceInfo": "sms",
+    "iban": "RO49AAAA1B31007593840019",
+    "bankName": "Banca Transilvania",
+    "bankLocation": "Ștefan cel Mare",
+    "paymentMethod": "transfer",
+    "warranties": {
+      "key": "radio-2",
+      "value": "Lorem ipsum dolor sit amet, consectetur incididunt"
+    },
+    "storeName": "Vodafone Store",
+    "storeCounty": "Sector 2",
+    "storeCity": "București",
+    "storeAddress": "Șos. Ștefan cel Mare nr. 26",
+    "storeNumber": "20",
+    "files": [
+      {
+        "name": "Screenshot 2026-06-18 175018.png",
+        "url": "/uploads/Screenshot%202026-06-18%20175018.png"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "series": "1637332407",
+    "cui": "223344",
+    "type": {
+      "key": "standard",
+      "label": "Standard"
+    },
+    "status": {
+      "key": "approved",
+      "label": "Aprobat"
+    },
+    "contractNumber": "CT-021",
+    "datePicker": "2026-08-03",
+    "agentName": "Agent 21",
+    "companyName": "Decathlon Romania",
+    "companyNumber": "J40/565/2026",
+    "companyAddress": "Bd. Timișoara nr. 45, București",
+    "companyPhone": "021 222 3333",
+    "fax": "021 333 2222",
+    "legalRepresentative": "Sorina Iancu",
+    "legalRepresentativeRole": "Retail Director",
+    "idSeries": "YZ",
+    "idNumber": "667788",
+    "cnp": "3456723456789",
+    "phone": "0750 112 233",
+    "email": "sorina.iancu@decathlon.ro",
+    "invoice": "original",
+    "invoiceInfo": "email",
+    "iban": "RO49AAAA1B31007593840020",
+    "bankName": "ING",
+    "bankLocation": "Liberty",
+    "paymentMethod": "cash",
+    "warranties": {
+      "key": "radio-4",
+      "value": "Lorem ipsum dolor sit amet, consectetur incididunt"
+    },
+    "storeName": "Decathlon Plaza",
+    "storeCounty": "Sector 6",
+    "storeCity": "București",
+    "storeAddress": "Bd. Timișoara nr. 45",
+    "storeNumber": "21",
+    "files": [
+      {
+        "name": "Screenshot 2026-06-18 175018.png",
+        "url": "/uploads/Screenshot%202026-06-18%20175018.png"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "series": "1637332410",
+    "cui": "334455",
+    "type": {
+      "key": "pcsolution",
+      "label": "PC Solution"
+    },
+    "status": {
+      "key": "pending",
+      "label": "In asteptare"
+    },
+    "contractNumber": "CT-022",
+    "datePicker": "2026-08-04",
+    "agentName": "Agent 22",
+    "companyName": "Flanco Retail",
+    "companyNumber": "J40/566/2026",
+    "companyAddress": "Calea Vitan nr. 111, București",
+    "companyPhone": "021 666 7777",
+    "fax": "021 777 6666",
+    "legalRepresentative": "Liviu Iancu",
+    "legalRepresentativeRole": "Managing Director",
+    "idSeries": "AB",
+    "idNumber": "778811",
+    "cnp": "4567834567890",
+    "phone": "0751 223 344",
+    "email": "liviu.iancu@flanco.ro",
+    "invoice": "email",
+    "invoiceInfo": "sms",
+    "iban": "RO49AAAA1B31007593840021",
+    "bankName": "BCR",
+    "bankLocation": "Vitan",
+    "paymentMethod": "transfer",
+    "warranties": {
+      "key": "radio-2",
+      "value": "Lorem ipsum dolor sit amet, consectetur incididunt"
+    },
+    "storeName": "Flanco Vitan",
+    "storeCounty": "Sector 3",
+    "storeCity": "București",
+    "storeAddress": "Calea Vitan nr. 111",
+    "storeNumber": "22",
+    "files": [
+      {
+        "name": "Screenshot 2026-06-18 175018.png",
+        "url": "/uploads/Screenshot%202026-06-18%20175018.png"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "series": "1637332413",
+    "cui": "445566",
+    "type": {
+      "key": "coletexpres",
+      "label": "Colet Expres"
+    },
+    "status": {
+      "key": "approved",
+      "label": "Aprobat"
+    },
+    "contractNumber": "CT-023",
+    "datePicker": "2026-08-05",
+    "agentName": "Agent 23",
+    "companyName": "Deloitte România",
+    "companyNumber": "J40/567/2026",
+    "companyAddress": "Str. Barbu Văcărescu nr. 162, București",
+    "companyPhone": "021 888 1111",
+    "fax": "021 111 8888",
+    "legalRepresentative": "Roxana Mănescu",
+    "legalRepresentativeRole": "Country Managing Partner",
+    "idSeries": "CD",
+    "idNumber": "889922",
+    "cnp": "5678945678901",
+    "phone": "0752 334 455",
+    "email": "roxana.manescu@deloitte.ro",
+    "invoice": "original",
+    "invoiceInfo": "email",
+    "iban": "RO49AAAA1B31007593840022",
+    "bankName": "ING",
+    "bankLocation": "Barbu Văcărescu",
+    "paymentMethod": "cash",
+    "warranties": {
+      "key": "radio-4",
+      "value": "Lorem ipsum dolor sit amet, consectetur incididunt"
+    },
+    "storeName": "Deloitte Office",
+    "storeCounty": "Sector 2",
+    "storeCity": "București",
+    "storeAddress": "Str. Barbu Văcărescu nr. 162",
+    "storeNumber": "23",
+    "files": [
+      {
+        "name": "Screenshot 2026-06-18 175018.png",
+        "url": "/uploads/Screenshot%202026-06-18%20175018.png"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "series": "1637332416",
+    "cui": "556677",
+    "type": {
+      "key": "coletexpres",
+      "label": "Colet Expres"
+    },
+    "status": {
+      "key": "pending",
+      "label": "In asteptare"
+    },
+    "contractNumber": "CT-024",
+    "datePicker": "2026-08-06",
+    "agentName": "Agent 24",
+    "companyName": "Carrefour Market",
+    "companyNumber": "J40/568/2026",
+    "companyAddress": "Bd. Unirii nr. 45, București",
+    "companyPhone": "021 555 8888",
+    "fax": "021 888 5555",
+    "legalRepresentative": "Iulia Dincă",
+    "legalRepresentativeRole": "Store Director",
+    "idSeries": "EF",
+    "idNumber": "990033",
+    "cnp": "6789056789012",
+    "phone": "0753 445 566",
+    "email": "iulia.dinca@carrefour.ro",
+    "invoice": "email",
+    "invoiceInfo": "sms",
+    "iban": "RO49AAAA1B31007593840023",
+    "bankName": "OTC Bank",
+    "bankLocation": "Unirii",
+    "paymentMethod": "transfer",
+    "warranties": {
+      "key": "radio-2",
+      "value": "Lorem ipsum dolor sit amet, consectetur incididunt"
+    },
+    "storeName": "Carrefour Market Unirii",
+    "storeCounty": "Sector 3",
+    "storeCity": "București",
+    "storeAddress": "Bd. Unirii nr. 45",
+    "storeNumber": "24",
+    "files": [
+      {
+        "name": "Screenshot 2026-06-18 175018.png",
+        "url": "/uploads/Screenshot%202026-06-18%20175018.png"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "series": "1637332422",
+    "cui": "778899",
+    "type": {
+      "key": "pcsolution",
+      "label": "PC Solution"
+    },
+    "status": {
+      "key": "signed",
+      "label": "Semnat"
+    },
+    "contractNumber": "CT-026",
+    "datePicker": "2026-08-08",
+    "agentName": "Agent 26",
+    "companyName": "Mega Image Romania",
+    "companyNumber": "J40/570/2026",
+    "companyAddress": "Șos. Pantelimon nr. 88, București",
+    "companyPhone": "021 333 6666",
+    "fax": "021 666 3333",
+    "legalRepresentative": "Adina Petrea",
+    "legalRepresentativeRole": "Operations Manager",
+    "idSeries": "IJ",
+    "idNumber": "112244",
+    "cnp": "8901236789012",
+    "phone": "0755 667 788",
+    "email": "adina.petre@megaimage.ro",
+    "invoice": "email",
+    "invoiceInfo": "sms",
+    "iban": "RO49AAAA1B31007593840025",
+    "bankName": "CEC Bank",
+    "bankLocation": "Pantelimon",
+    "paymentMethod": "transfer",
+    "warranties": {
+      "key": "radio-2",
+      "value": "Lorem ipsum dolor sit amet, consectetur incididunt"
+    },
+    "storeName": "Mega Image Pantelimon",
+    "storeCounty": "Sector 2",
+    "storeCity": "București",
+    "storeAddress": "Șos. Pantelimon nr. 88",
+    "storeNumber": "26",
+    "files": [
+      {
+        "name": "Screenshot 2026-06-18 175018.png",
+        "url": "/uploads/Screenshot%202026-06-18%20175018.png"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "cui": "23568679",
+    "type": {
+      "key": "coletexpres",
+      "label": "Colet Expres"
+    },
+    "contractNumber": "CT-02",
+    "datePicker": "2026-07-03",
+    "agentName": "Agent 2",
+    "companyName": "TEST Company Co.",
+    "companyNumber": "J40/456/2026",
+    "companyAddress": "Str. Constructorilor nr. 8, Iași",
+    "companyPhone": "021 555 1234",
+    "fax": "021 555 4321",
+    "legalRepresentative": "Ingvar Kamprad",
+    "legalRepresentativeRole": "Director",
+    "idSeries": "XY",
+    "idNumber": "232121",
+    "cnp": "1231231232132",
+    "phone": "0747371844",
+    "email": "stefantaga97@gmail.com",
+    "invoice": {
+      "key": "email",
+      "label": "Email"
+    },
+    "invoiceInfo": {
+      "key": "sms",
+      "label": "Sms"
+    },
+    "iban": "RO49AAAA1231007593840001",
+    "bankName": "ING",
+    "bankLocation": "Victoriei",
+    "paymentMethod": {
+      "key": "cash",
+      "label": "Cash"
+    },
+    "warranties": {
+      "key": "radio-1",
+      "value": "Lorem ipsum dolor sit amet, consectetur incididunt"
+    },
+    "storeName": "Shop & Go Titulescu 258",
+    "storeCounty": "Iasi",
+    "storeCity": "Voluntari",
+    "storeAddress": "Str. Constructorilor nr. 8",
+    "storeNumber": "12",
+    "name": "TEST Company Co.",
+    "status": {
+      "key": "pending",
+      "label": "In Asteptare"
+    },
+    "files": [
+      {
+        "name": "Screenshot 2026-06-18 175018.png",
+        "url": "/uploads/Screenshot%202026-06-18%20175018.png"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "cui": "1245678",
+    "type": {
+      "key": "pcsolution",
+      "label": "PC Solution"
+    },
+    "contractNumber": "CT-010",
+    "datePicker": "2026-07-08",
+    "agentName": "Agent TEST 2",
+    "companyName": "TEST Furnitures Company",
+    "companyNumber": "J44/456/2026",
+    "companyAddress": "Str. Mobilă nr. 5, București",
+    "companyPhone": "021 555 1234",
+    "fax": "021 555 4321",
+    "legalRepresentative": "Ingvar Kamprad",
+    "legalRepresentativeRole": "Director",
+    "idSeries": "XY",
+    "idNumber": "123456",
+    "cnp": "1231231231233",
+    "phone": "0747371844",
+    "email": "stefantaga97@gmail.com",
+    "invoice": {
+      "key": "original",
+      "label": "Original"
+    },
+    "invoiceInfo": {
+      "key": "sms",
+      "label": "Sms"
+    },
+    "iban": "RO49AAAA1231007593840001",
+    "bankName": "ING",
+    "bankLocation": "Victoriei",
+    "paymentMethod": {
+      "key": "transfer",
+      "label": "Transfer"
+    },
+    "warranties": {
+      "key": "radio-1",
+      "value": "Lorem ipsum dolor sit amet, consectetur incididunt"
+    },
+    "storeName": "Construct Imprex",
+    "storeCounty": "Iasi",
+    "storeCity": "Voluntari",
+    "storeAddress": "Str. Mobilă nr. 5",
+    "storeNumber": "1321",
+    "name": "TEST Furnitures Company",
+    "status": {
+      "key": "pending",
+      "label": "In Asteptare"
+    },
+    "files": [
+      {
+        "name": "Screenshot 2026-06-18 175018.png",
+        "url": "/uploads/Screenshot%202026-06-18%20175018.png"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "cui": "987654321",
+    "type": {
+      "key": "pcsolution",
+      "label": "PC Solution"
+    },
+    "contractNumber": "CT-012",
+    "datePicker": "2026-07-15",
+    "agentName": "Agent Test Test",
+    "companyName": "IKEA Furnitures Co Test 2",
+    "companyNumber": "J40/456/2026",
+    "companyAddress": "Str. Mobilă nr. 5, București",
+    "companyPhone": "0747371844",
+    "fax": "021 765 4321",
+    "legalRepresentative": "Ingvar Kamprad",
+    "legalRepresentativeRole": "Director",
+    "idSeries": "XY",
+    "idNumber": "123456",
+    "cnp": "1970625226753",
+    "phone": "0747371844",
+    "email": "stefantaga97@gmail.com",
+    "invoice": {
+      "key": "email",
+      "label": "Email"
+    },
+    "invoiceInfo": {
+      "key": "sms",
+      "label": "SMS"
+    },
+    "iban": "RO12ABCD1231231231231231",
+    "bankName": "BRD",
+    "bankLocation": "Victoriei",
+    "paymentMethod": {
+      "key": "cash",
+      "label": "Cash"
+    },
+    "warranties": {
+      "key": "radio-2",
+      "value": "Lorem ipsum dolor sit amet, consectetur incididunt"
+    },
+    "storeName": "IKEA Furnitures Co",
+    "storeCounty": "Iasi",
+    "storeCity": "Voluntari",
+    "storeAddress": "Str. Mobilă nr. 5",
+    "storeNumber": "123",
+    "name": "IKEA Furnitures Co Test 2",
+    "status": {
+      "key": "pending",
+      "label": "In asteptare"
+    },
+    "files": [
+      {
+        "name": "Screenshot 2026-06-18 175018.png",
+        "url": "/uploads/Screenshot%202026-06-18%20175018.png"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "cui": "124578000",
+    "type": {
+      "key": "coletexpres",
+      "label": "Colet Expres"
+    },
+    "contractNumber": "CT-002000",
+    "datePicker": "2026-07-20",
+    "agentName": "Agent Stef",
+    "companyName": "Test Company",
+    "companyNumber": "J40/456/2026",
+    "companyAddress": "Str. Mobilă nr. 5, București",
+    "companyPhone": "0747371844",
+    "fax": "021 555 4321",
+    "legalRepresentative": "Ingvar Kamprad",
+    "legalRepresentativeRole": "Director",
+    "idSeries": "XY",
+    "idNumber": "123456",
+    "cnp": "1970625226753",
+    "phone": "0747371844",
+    "email": "stefantaga97@gmail.com",
+    "invoice": {
+      "key": "email",
+      "label": "Email"
+    },
+    "invoiceInfo": {
+      "key": "sms",
+      "label": "SMS"
+    },
+    "iban": "RO12abcd1232132132132132",
+    "bankName": "ING",
+    "bankLocation": "Victoriei",
+    "paymentMethod": {
+      "key": "cash",
+      "label": "Cash"
+    },
+    "warranties": {
+      "key": "radio5",
+      "label": "Lorem ipsum dolor sit amet, consectetur incididunt"
+    },
+    "storeName": "IKEA Furnitures CoMPANY",
+    "storeCounty": "Iasi",
+    "storeCity": "Voluntari",
+    "storeAddress": "Str. Constructorilor nr. 8",
+    "storeNumber": "123",
+    "status": {
+      "key": "pending",
+      "label": "In asteptare"
+    },
+    "files": [
+      {
+        "name": "Screenshot 2026-06-18 175018.png",
+        "url": "/uploads/Screenshot%202026-06-18%20175018.png"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "cui": "3435452432",
+    "type": {
+      "key": "pcsolution",
+      "label": "PC Solution"
+    },
+    "status": {
+      "key": "pending",
+      "label": "În așteptare"
+    },
+    "contractNumber": "CT-123",
+    "datePicker": "2026-08-04T21:00:00.000Z",
+    "amount": 0,
+    "agentName": "First Agent ",
+    "companyName": "First Test Company",
+    "companyNumber": "J00/2026/2345",
+    "companyAddress": "First Test Street",
+    "companyPhone": "0747371844",
+    "fax": "0232277913",
+    "legalRepresentative": "First Test Agent",
+    "legalRepresentativeRole": "Director",
+    "idSeries": "NZ",
+    "idNumber": "123456",
+    "cnp": "1970625226753",
+    "phone": "0747371844",
+    "email": "razvantaga97@gmail.com",
+    "invoice": "default",
+    "invoiceInfo": "default",
+    "iban": "RO12ABCD1234567890123456",
+    "bankName": "BRD",
+    "bankLocation": "Iasi",
+    "paymentMethod": "default",
+    "warranties": {
+      "key": "guarantee2",
+      "label": "Lorem ipsum dolor sit amet, consectetur incididunt"
+    },
+    "storeName": "Fisrt Test Store",
+    "storeCounty": "Iasi",
+    "storeCity": "Iasi",
+    "storeAddress": "Test Street",
+    "storeNumber": "1234",
+    "files": [
+      {
+        "id": "ce1c0ecf-3b9f-41fd-9e36-76d69ac30c6d",
+        "name": "Screenshot From 2026-08-01 21-10-28.png",
+        "file": "Screenshot From 2026-08-01 21-10-28.png",
+        "type": "image/png",
+        "size": 15762,
+        "dataUrl": "data:image/png;base64,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"
+      }
+    ]
+  }
+]

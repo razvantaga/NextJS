@@ -1,0 +1,25 @@
+<svg id="Vector_Smart_Object" data-name="Vector Smart Object" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="23" viewBox="0 0 24 23">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_38" data-name="Rectangle 38" width="24" height="23" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="Rectangle_27" data-name="Rectangle 27" width="2" height="1" transform="translate(5 12)" fill="none" stroke="#2e2556" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+  <rect id="Rectangle_28" data-name="Rectangle 28" width="2" height="1" transform="translate(11 12)" fill="none" stroke="#2e2556" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+  <rect id="Rectangle_29" data-name="Rectangle 29" width="2" height="1" transform="translate(5 17)" fill="none" stroke="#2e2556" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+  <rect id="Rectangle_30" data-name="Rectangle 30" width="2" height="1" transform="translate(11 17)" fill="none" stroke="#2e2556" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+  <rect id="Rectangle_31" data-name="Rectangle 31" width="2" height="1" transform="translate(17 12)" fill="none" stroke="#2e2556" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+  <rect id="Rectangle_32" data-name="Rectangle 32" width="2" height="1" transform="translate(5 12)" fill="#2e2556"/>
+  <rect id="Rectangle_33" data-name="Rectangle 33" width="2" height="1" transform="translate(11 12)" fill="#2e2556"/>
+  <rect id="Rectangle_34" data-name="Rectangle 34" width="2" height="1" transform="translate(5 17)" fill="#2e2556"/>
+  <rect id="Rectangle_35" data-name="Rectangle 35" width="2" height="1" transform="translate(11 17)" fill="#2e2556"/>
+  <rect id="Rectangle_36" data-name="Rectangle 36" width="2" height="1" transform="translate(17 12)" fill="#2e2556"/>
+  <g id="Group_106" data-name="Group 106">
+    <g id="Group_105" data-name="Group 105" clip-path="url(#clip-path)">
+      <rect id="Rectangle_37" data-name="Rectangle 37" width="22" height="19" rx="2" transform="translate(1 3)" fill="none" stroke="#2e2556" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_24" data-name="Line 24" y2="3" transform="translate(6 1)" fill="none" stroke="#2e2556" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_25" data-name="Line 25" y2="3" transform="translate(18 1)" fill="none" stroke="#2e2556" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_26" data-name="Line 26" x2="22" transform="translate(1 8)" fill="none" stroke="#2e2556" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

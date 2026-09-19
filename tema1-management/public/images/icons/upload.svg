@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_40" data-name="Rectangle 40" width="18" height="18" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Vector_Smart_Object" data-name="Vector Smart Object" transform="translate(0 0)">
+    <g id="Group_121" data-name="Group 121">
+      <g id="Group_120" data-name="Group 120" clip-path="url(#clip-path)">
+        <line id="Line_31" data-name="Line 31" y1="12.046" transform="translate(9 1.136)" fill="none" stroke="#2e2556" stroke-miterlimit="10" stroke-width="1.606"/>
+        <path id="Path_152" data-name="Path 152" d="M13.909,5.954,9,1.136,4.091,5.954" fill="none" stroke="#2e2556" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.621"/>
+        <line id="Line_32" data-name="Line 32" x1="16.364" transform="translate(0.818 17.197)" fill="none" stroke="#2e2556" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.636"/>
+      </g>
+    </g>
+  </g>
+</svg>
